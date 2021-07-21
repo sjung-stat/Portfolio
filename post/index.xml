@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Seyoung Jung</title>
+    <link>https://sjung-stat.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Seyoung Jung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sjung-stat.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project VI: Restaurant Fake Review Detection [In Progress]</title>
+      <link>https://sjung-stat.github.io/portfolio/post/chapter-6/</link>
+      <pubDate>Tue, 20 Jul 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://sjung-stat.github.io/portfolio/post/chapter-6/</guid>
+      <description>Introduction: Modern people tend to read reviews before buying products or services for smart and wise spending in addition to information provided by businesses. But there are some cases where businesses intentionally don&amp;rsquo;t provide consumers with information on downside of their products/services, or even make false and exaggerated advertisements in order to maximize their profits. For that reason, consumers don&amp;rsquo;t accept the information unconditionally. However, they can obtain more accurate information from other consumers who have already used the services/products that they are interested in buying.</description>
+    </item>
+    
+    <item>
+      <title>Project V: Classifying Mobile Prices Based on Specifications</title>
+      <link>https://sjung-stat.github.io/portfolio/post/chapter-5/</link>
+      <pubDate>Sun, 13 Jun 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://sjung-stat.github.io/portfolio/post/chapter-5/</guid>
+      <description>Introduction: Today, the rapid development of technology allows electronics companies to launch new products to customers. Especially, many consumers periodically update their smart phones, and therefore, the electronics market is highly competitive to attract shoppers. The best interest of consumers is better performance with lower price. Hence, determining reasonable price is a very important factor for businesses. Also, customers tend to want to judge if the price of the item is reasonable based on the specifications that they are interested in.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Observation on Uninsured Rates in the U.S.</title>
+      <link>https://sjung-stat.github.io/portfolio/post/chapter-4/</link>
+      <pubDate>Thu, 27 May 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://sjung-stat.github.io/portfolio/post/chapter-4/</guid>
+      <description>Introduction: According to The American Journal of Medicine, &amp;ldquo;health care expenses were the most common cause of bankruptcy in the United States in 2007, accounting for 62% of US bankruptcies compared with 8% in 1981.&amp;rdquo; The journal also states that millions of citizens do not have health insurance due to expensive insurance costs. In other words, the insurance system in the United States can be considered as a failure, and it is a serious social problem.</description>
+    </item>
+    
+    <item>
+      <title>Project III: Fraud Detection from Customer Transaction</title>
+      <link>https://sjung-stat.github.io/portfolio/post/chapter-3/</link>
+      <pubDate>Wed, 02 Sep 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://sjung-stat.github.io/portfolio/post/chapter-3/</guid>
+      <description>Introduction: The emergence of digital payments has made our lives a lot easier. For example, it helps us lighten our wallets because we can carry only a piece of plastic card. Also, it allows us to shop online at home. In addition to that, digital payments have lots of advantages. But at the same time, a serious problem has arisen: fraudulent transactions. According to Axis Bank, a fraudulent transaction is “any transaction in the account that was not authorized directly by the card/account holder.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Google Store Transaction Revenue Prediction</title>
+      <link>https://sjung-stat.github.io/portfolio/post/chapter-2/</link>
+      <pubDate>Fri, 31 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://sjung-stat.github.io/portfolio/post/chapter-2/</guid>
+      <description>Introduction: As we all know, Google is one of the biggest tech giants. They specialize in internet-related services, and people all around the world use them on a daily basis. Having billions of active users allows them to accumulate massive data, which plays a critical role of further developing their businesses rapidly. In addition to internet-related services, Google operates Google Store (GStore in short) which is an online retailer that sells not only hardwares including phones, Chromecasts, and speakers, but also accessories such as chargers, earbuds, etc.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Telco Customer Churn Prediction</title>
+      <link>https://sjung-stat.github.io/portfolio/post/chapter-1/</link>
+      <pubDate>Mon, 10 Dec 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://sjung-stat.github.io/portfolio/post/chapter-1/</guid>
+      <description>Introduction: According to this article, there are &amp;ldquo;more than 32.5 million businesses in the world&amp;rdquo;. No one can doubt that the key to success for businesses is to have a more solid and wider customer base. Therefore, their main interest is to have a better customer service for their existing and future customers. And this is absolutely more important to telecom companies such as AT&amp;amp;T and Verizon, because the market is already saturated.</description>
+    </item>
+    
+  </channel>
+</rss>
